@@ -5,7 +5,7 @@ I’m a passionate software developer with practical experience in building comp
 
 With a background in software engineering and a strong logical programming approach, I excel in abstraction, analysis, and conclusion drawing. I am known for my high work ethic, integrity, punctuality, mathematical prowess, and quick thinking. I am focused, consistent, and thorough, yet flexible and able to work effectively in a team, with excellent interpersonal skills.
 
-- How to reach me: c0548560049@gmail.com
+- How to reach me: ch49ro@gmail.com
 
 ### Languages and Tools:
 <div align="center">
