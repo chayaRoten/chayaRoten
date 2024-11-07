@@ -1,11 +1,12 @@
-## Hi there 
-I'm Chaya Roten,
+## Hi there! 👋
 
-I’m a passionate software developer with practical experience in building complex systems using a variety of technologies. I am currently seeking challenging opportunities in backend or frontend development.
+I’m Chaya Roten 👩‍💻✨, a passionate software developer with practical experience in building complex systems using a variety of technologies. 🚀  
+I’m always excited about new challenges and continuously looking to grow and improve in backend and frontend development! 💻💡
 
-With a background in software engineering and a strong logical programming approach, I excel in abstraction, analysis, and conclusion drawing. I am known for my high work ethic, integrity, punctuality, mathematical prowess, and quick thinking. I am focused, consistent, and thorough, yet flexible and able to work effectively in a team, with excellent interpersonal skills.
+I have a strong logical approach to programming, love problem-solving 🧩, and thrive in team settings with excellent communication skills! 🤝  
+Let’s create something awesome together! 😄
 
-- How to reach me: ch49ro@gmail.com
+How to reach me: 📧 ch49ro@gmail.com
 
 ### Languages and Tools:
 <div align="center">
@@ -40,7 +41,13 @@ With a background in software engineering and a strong logical programming appro
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
+
+
+
+
+
+
 You can check out some of my projects here:
 
-- [Task Management System](https://github.com/chayaRoten/Task.git)
-- [Job Search Site](https://github.com/chayaRoten/AngularProject.git)
+- [Business Management Api](https://github.com/chayaRoten/business-management-api.git)
+- [Business Appointment System](https://github.com/chayaRoten/Business-Appointment-System.git)
